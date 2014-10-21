@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><entities>
+	<entity>
+		<entity-name>aa.abra.jba.entity.Item</entity-name>
+		<entity-width>120</entity-width>
+		<entity-height>186</entity-height>
+		<entity-X-Coordinate>400</entity-X-Coordinate>
+		<entity-Y-Coordinate>106</entity-Y-Coordinate>
+		<primary-collapsed>false</primary-collapsed>
+		<relation-collapsed>false</relation-collapsed>
+		<basic-collapsed>false</basic-collapsed>
+	</entity>
+
+	<entity>
+		<entity-name>aa.abra.jba.entity.Blog</entity-name>
+		<entity-width>120</entity-width>
+		<entity-height>186</entity-height>
+		<entity-X-Coordinate>136</entity-X-Coordinate>
+		<entity-Y-Coordinate>106</entity-Y-Coordinate>
+		<primary-collapsed>false</primary-collapsed>
+		<relation-collapsed>false</relation-collapsed>
+		<basic-collapsed>false</basic-collapsed>
+	</entity>
+
+	<entity>
+		<entity-name>aa.abra.jba.entity.Role</entity-name>
+		<entity-width>120</entity-width>
+		<entity-height>146</entity-height>
+		<entity-X-Coordinate>20</entity-X-Coordinate>
+		<entity-Y-Coordinate>326</entity-Y-Coordinate>
+		<primary-collapsed>false</primary-collapsed>
+		<relation-collapsed>false</relation-collapsed>
+		<basic-collapsed>false</basic-collapsed>
+	</entity>
+
+	<entity>
+		<entity-name>aa.abra.jba.entity.User</entity-name>
+		<entity-width>120</entity-width>
+		<entity-height>181</entity-height>
+		<entity-X-Coordinate>340</entity-X-Coordinate>
+		<entity-Y-Coordinate>360</entity-Y-Coordinate>
+		<primary-collapsed>true</primary-collapsed>
+		<relation-collapsed>false</relation-collapsed>
+		<basic-collapsed>false</basic-collapsed>
+	</entity>
+</entities>
